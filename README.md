@@ -1,6 +1,6 @@
 ### *Hello!* I'm Ana Esther 👋
 
-I am a :brazil: Brazilian *front-end developer*, currently living in Italy :it:
+I am a :brazil: Brazilian *front-end engineer*, currently living in Portugal 🇵🇹
 
 <table>
   <tr>
