@@ -1,7 +1,9 @@
 ### *Hello!* I'm Ana Esther 👋
 
-I am a :brazil: Brazilian *front-end engineer*, currently living in Portugal 🇵🇹
+Welcome to my page! I'm *frontend engineer*, currently living in Portugal 🇵🇹
 
+
+![8d895aad5514962395bd0891e1d1dd45](https://github.com/anaestheramaral/anaestheramaral/assets/71028684/f389f690-f96e-4749-b962-36005dba5b50)
 
 #### <ins>Languages and Tools:</ins>
 
